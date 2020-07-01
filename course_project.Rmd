@@ -3,8 +3,8 @@ title: "Statistical Inference"
 author: "Sumana"
 date: "01/07/2020"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 ## Loading Libraries
 
